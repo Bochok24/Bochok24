@@ -24,7 +24,7 @@ I'm a CS Student who loves building web apps, automating tasks, and contributing
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=stars&count_private=true&theme=default)
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/john-dave-maca-068116358)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-dave-maca-068116358)  
 ✉️ macajohndave24@gmail.com
 
 ---

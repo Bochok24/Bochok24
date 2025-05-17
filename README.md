@@ -14,7 +14,7 @@ I'm a CS Student who loves building web apps, automating tasks, and contributing
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 
 ## 🚀 Projects
-- 🔗 [**Online Quiz Application**](https://github.com/Bochok24/Online_Quiz)  
+- 🔗 [**Online Quiz Application**](https://online-quiz-ramos-maca.netlify.app)  
   A simple web app for creating and taking quizzes wit supabase integration for the database.
 
 - 🔗 [**Modified Columnar Cipher**](https://github.com/Bochok24/Columnar_Spiral)  
